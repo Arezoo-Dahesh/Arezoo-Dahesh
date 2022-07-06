@@ -3,7 +3,7 @@
 ### <div align="center">Data science researcher</div>
 <div align="center">
 <a href="https://www.kaggle.com/arezoodahesh" align="center"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>
-<a href="www.linkedin.com/in/arezoo-dahesh" align="center"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/arezoo-dahesh" align="center"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Arezoo-Dahesh&style=flat-square&color=blue" alt=""/>
