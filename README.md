@@ -22,6 +22,12 @@
 <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
 </div>
 
+---
+
+#### ▶ My GitHub stats
+![Arezoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arezoo-Dahesh&theme=radical&show_icons=true)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arezoo-Dahesh&layout=compact&theme=radical)](https://github.com/Arezoo-Dahesh/github-readme-stats)-->
+
 <!--
 **Arezoo-Dahesh/Arezoo-Dahesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
